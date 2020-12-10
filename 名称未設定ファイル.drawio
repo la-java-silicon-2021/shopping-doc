@@ -1,1 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:21:24.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.8.8" etag="c_g-Gzzqx9rpseHsukAZ" type="github"><diagram id="-610zWsa2Lycx0hInxwI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T03:22:03.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="d9wfZeDyp0bf0_3anGFg" version="13.8.8" type="github">
+  <diagram id="-610zWsa2Lycx0hInxwI" name="ページ1">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4my4aZvfBUZn11VX7HxP-1" value="ログイン画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-2" value="会員登録画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-1" target="4my4aZvfBUZn11VX7HxP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="110" as="sourcePoint" />
+            <mxPoint x="230" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-4" value="会員登録" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-5" value="会員登録確認画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-2" target="4my4aZvfBUZn11VX7HxP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="100" as="sourcePoint" />
+            <mxPoint x="115" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-7" value="確認" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-8" value="会員登録完了画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-9" value="商品一覧画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-1" target="4my4aZvfBUZn11VX7HxP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="110" as="sourcePoint" />
+            <mxPoint x="115" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-11" value="ログイン" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-12" value="商品詳細画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-9" target="4my4aZvfBUZn11VX7HxP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="110" as="sourcePoint" />
+            <mxPoint x="115" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-14" value="タイトル" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-15" value="カート画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-12" target="4my4aZvfBUZn11VX7HxP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314.5" y="220" as="sourcePoint" />
+            <mxPoint x="314.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-17" value="カート追加" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-19" target="4my4aZvfBUZn11VX7HxP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-19" value="注文確認画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-15" target="4my4aZvfBUZn11VX7HxP-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-21" value="注文" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-22" value="購入完了画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-23" value="購入" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4my4aZvfBUZn11VX7HxP-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="430" as="sourcePoint" />
+            <mxPoint x="314.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-24" value="会員情報画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-25" value="会員情報変更画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-26" value="購入履歴一覧画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-27" value="購入履歴詳細画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-28" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-27" target="4my4aZvfBUZn11VX7HxP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="220" as="sourcePoint" />
+            <mxPoint x="325" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="290" />
+              <mxPoint x="420" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-29" value="タイトル" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-9" target="4my4aZvfBUZn11VX7HxP-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="69.5" as="sourcePoint" />
+            <mxPoint x="460" y="69.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-31" value="マイページ" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-32" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-24" target="4my4aZvfBUZn11VX7HxP-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="110" as="sourcePoint" />
+            <mxPoint x="325" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-33" value="購入履歴" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-34" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-26" target="4my4aZvfBUZn11VX7HxP-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="110" as="sourcePoint" />
+            <mxPoint x="535" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-35" value="購入履歴詳細" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-24" target="4my4aZvfBUZn11VX7HxP-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="110" as="sourcePoint" />
+            <mxPoint x="535" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-37" value="変更" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-38" value="会員情報変更確認画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-39" value="会員情報変更完了画面" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-40" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-25" target="4my4aZvfBUZn11VX7HxP-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="220" as="sourcePoint" />
+            <mxPoint x="730" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-41" value="確認" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-38" target="4my4aZvfBUZn11VX7HxP-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="320" as="sourcePoint" />
+            <mxPoint x="710" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-43" value="確定" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-44" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-5" target="4my4aZvfBUZn11VX7HxP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-45" value="確定" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-46" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4my4aZvfBUZn11VX7HxP-8" target="4my4aZvfBUZn11VX7HxP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="80" as="sourcePoint" />
+            <mxPoint x="260" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="400" />
+              <mxPoint x="210" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4my4aZvfBUZn11VX7HxP-47" value="トップへ" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4my4aZvfBUZn11VX7HxP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
