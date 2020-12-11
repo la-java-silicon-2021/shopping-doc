@@ -6,7 +6,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |  id  |  PK  |  SERIAL  |    |  N  |    |  会員ID オートインクリメント  |
 |  name|    |  VARCHAR  |  50  |  N  |    |  会員名  |
-|  email  |  U  |  VARCHAR  |  250  |  N  |    |  メールアドレス  |
+|  email  |  UK  |  VARCHAR  |  250  |  N  |    |  メールアドレス  |
 |  password  |    |  TEXT  |    |  N  |    |  パスワード  |
 |  postcode  |    |  VARCHAR  |  7  |  N  |    |  郵便番号（ハイフンなし）  |
 |  address  |    |  VARCHAR  |  200  |  N  |    |  住所  |
