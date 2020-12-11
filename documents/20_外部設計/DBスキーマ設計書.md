@@ -1,7 +1,6 @@
 # users
 会員テーブル
 
-
 |  フィールド名  |  キー  |  データ型  |  桁数  |  NULL  |  DEFAULT  |  説明  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |  id  |  PK  |  SERIAL  |    |  N  |    |  会員ID オートインクリメント  |
@@ -14,3 +13,16 @@
 |  birthday  |    |  DATE  |    |  N  |    |  誕生日  |
 |  is_admin  |    |  BOOLEAN  |  1  |  N  |  FALSE  |  TRUE:管理者 FALSE:一般会員  |
 |  deleted_at  |    |  TIMESTAMP  |    |  Y  |    |  削除日時（退会日時）  |
+
+
+# items
+商品テーブル
+
+|  フィールド名  |  キー  |  データ型  |  桁数  |  NULL  |  DEFAULT  |  説明  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  id  |  PK  |  SERIAL  |    |  N  |    |  商品ID オートインクリメント  |
+|  category_id  |  FK  |  INTEGER  |    |  N  |    |  カテゴリID  |
+|  name  |    |  VARCHAR  |  100  |  N  |    |  商品名  |
+|  detail  |    |  TEXT  |    |  N  |    |  商品説明  |
+|  price  |    |  INTEGER  |    |  N  |    |  価格  |
+
