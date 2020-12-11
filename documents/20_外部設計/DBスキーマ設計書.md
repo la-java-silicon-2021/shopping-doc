@@ -12,5 +12,5 @@
 |  address  |    |  VARCHAR  |  200  |  N  |    |  住所  |
 |  tel  |    |  VARCHAR  |  13  |  N  |    |  電話番号（ハイフンなし）  |
 |  birthday  |    |  DATE  |    |  N  |    |  誕生日  |
-|  is_admin  |    |  BOOLEAN  |  1  |  N  |    |  true:管理者 false:一般会員  |
-|  deleted_at  |    |  TIMESTAMP  |    |  Y  |    |  削除（退会）日時  |
+|  is_admin  |    |  BOOLEAN  |  1  |  N  |  FALSE  |  TRUE:管理者 FALSE:一般会員  |
+|  deleted_at  |    |  TIMESTAMP  |    |  Y  |    |  削除日時（退会日時）  |
