@@ -1,8 +1,7 @@
-# データベース名
-- shopping
-
-# ユーザ名/パスワード
-- student/himitu
+# データベース定義
+- データベース名：shopping
+- ユーザ名：student
+- パスワード：himitu
 
 # テーブル定義
 # users
