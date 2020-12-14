@@ -24,7 +24,7 @@
 |  detail  |    |  TEXT  |    |  N  |    |  商品説明  |
 |  price  |    |  INTEGER  |    |  N  |    |  価格  |
 
-# users
+## users
 ユーザテーブル
 
 |  フィールド名  |  キー  |  データ型  |  桁数  |  NULL  |  DEFAULT  |  説明  |
