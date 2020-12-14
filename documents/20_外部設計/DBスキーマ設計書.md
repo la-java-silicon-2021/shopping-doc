@@ -1,4 +1,8 @@
-# データベース名：shopping
+# データベース名
+- shopping
+
+# ユーザ名 / パスワード
+- student / himitu
 
 # users
 ユーザテーブル
