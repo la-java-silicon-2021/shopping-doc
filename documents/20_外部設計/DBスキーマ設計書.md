@@ -22,7 +22,7 @@
 |  deleted_at  |    |  TIMESTAMP  |    |  Y  |    |  削除日時（退会日時）  |
 
 
-# items
+## items
 商品テーブル
 
 |  フィールド名  |  キー  |  データ型  |  桁数  |  NULL  |  DEFAULT  |  説明  |
@@ -34,7 +34,7 @@
 |  price  |    |  INTEGER  |    |  N  |    |  価格  |
 
 
-# categories
+## categories
 カテゴリテーブル
 
 |  フィールド名  |  キー  |  データ型  |  桁数  |  NULL  |  DEFAULT  |  説明  |
